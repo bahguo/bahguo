@@ -1,0 +1,33 @@
+<!--
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Android Testing Fun</string>
+
+    <string name="mi_ferst_test">Tes Utama Saya</string>
+
+    <string name="klick_fun">Klick Fun Tes</string>
+    <string name="label_klick_mi">Klick Saya</string>
+
+    <string name="lancar_neks">Luncur Aktivity</string>
+    <string name="neks_aktivity">Neks Aktivity</string>
+
+    <string name="zender_aktivity">Pengirim Aktivity</string>
+    <string name="reseptor_aktivity">Penerima Aktivity</string>
+
+    <string name="info_teks">Tombol klicked!</string>
+    <string name="label_lancar_neks">Luncur Lanjut</string>
+    <string name="label_zend_messeje">Kirim</string>
+    <string name="messeje_input_hint_edit_teks">Masukkan pesan</string>
+</resources>

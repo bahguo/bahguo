@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aplikasi Saya</string>
+	<string name="button_send">Kirim</string>
+	<string name="edit_message">Pesan</string>
+    <string name="hello_world">Hello, World!</string>
+	<string name="title_activity_display_message">Pesan Saya</string>
+
+</resources>
