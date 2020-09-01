@@ -222,16 +222,6 @@ x64 (2.76 GB)
 http://b1.download.windowsupdate.com/d/updt/2015/09/10240.16393.150909-1450.th1_refresh_clientpro_ret_x86fre_en-us_eb12c94fc7f1f8b3f04e14f21f9c9cd0e4dc2563.esd
 x86 (2.09 GB)
 
-Pre-Technical Preview
-
-http://b1.download.windowsupdate.com/d/updt/2014/09/9833.0.140903-1451.fbl_release_clientpro_ret_x64fre_zh-cn_04df30fd539d1685bb1078fbab3963063b00398a.esd
-x64 (2.70 GB)
-
-Technical Preview
-
-http://download.microsoft.com/download/F/5/7/F574727C-B145-4A7D-B85B-11C4E8DC894B/9841.0.amd64fre.fbl_release.140912-1613_server_serverdatacenter_en-us.vhd
-x64 (7.50 GB)
-
 Insider Preview
 
 http://bg.v4.sh.dl.ws.microsoft.com/dl/content/c/updt/2015/05/10122.0.150513-1845.fbl_impressive_cliententerprise_vol_x64fre_en-us_f7418a3ac07640cd96e42bf589b8e49f411e50be.esd
@@ -250,3 +240,19 @@ x64 (2.34 GB)
 
 http://b1.download.windowsupdate.com/d/updt/2015/04/10074.0.150424-1350.fbl_impressive_CLIENTENTERPRISE_VOL_x86fre_en-us_290be6414cdd4200917bba817a68ad45830382c0.esd
 x86 (1.76 GB)
+
+Technical Preview
+
+http://download.microsoft.com/download/F/5/7/F574727C-B145-4A7D-B85B-11C4E8DC894B/9841.0.amd64fre.fbl_release.140912-1613_server_serverdatacenter_en-us.vhd
+x64 (7.50 GB)
+
+http://b1.download.windowsupdate.com/d/updt/2014/09/9841.0.140912-1613.fbl_release_clientpro_ret_x64fre_en-us_fbae6f1d1352afa2cea0999fb739b0fd25ad9836.esd
+x64 (2.6 GB)
+
+http://b1.download.windowsupdate.com/d/updt/2014/09/9841.0.140912-1613.fbl_release_clientpro_ret_x86fre_en-us_1c434f9c827e488eebea244a3fdb24936a029f01.esd
+x86 (2.1 GB)
+
+Pre-Technical Preview (early development)
+
+http://b1.download.windowsupdate.com/d/updt/2014/09/9833.0.140903-1451.fbl_release_clientpro_ret_x64fre_zh-cn_04df30fd539d1685bb1078fbab3963063b00398a.esd
+x64 (2.70 GB)
