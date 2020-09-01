@@ -166,7 +166,7 @@ x86 (2.4 GB)
 
 
 
-<span style="color: rgb(0, 0, 0)">Microsoft Windows 10 1809 (aka RS5) build 17763.1 (September 2018)</span>
+Microsoft Windows 10 1809 (aka RS5) build 17763.1 (September 2018)
 
 
 
@@ -190,7 +190,7 @@ x86 (2.34 GB)
 
 
 
-<span style="color: rgb(0, 0, 0)"><span style="font-size: 15px">Microsoft Windows 10 Spring Creators Update (version 1803 aka RS4, build 17134.1) (April 2018)</span></span>
+Microsoft Windows 10 Spring Creators Update (version 1803 aka RS4, build 17134.1) (April 2018)
 
 
 
@@ -202,7 +202,7 @@ x86 (2.17 GB)
 
 
 
-<span style="color: rgb(0, 0, 0)"><span style="font-size: 15px">Microsoft Windows 10 Spring Creators Update (version 1803 aka RS4, build 17133.1) (March 2018)</span></span>
+Microsoft Windows 10 Spring Creators Update (version 1803 aka RS4, build 17133.1) (March 2018)
 
 
 
@@ -214,7 +214,7 @@ x86 (2.17 GB)
 
 
 
-<span style="font-size: 15px">Microsoft Windows 10 Fall Creators Update REFRESH  (version 1709 aka RS3, build 16299.125) (December 2017)</span>
+Microsoft Windows 10 Fall Creators Update REFRESH  (version 1709 aka RS3, build 16299.125) (December 2017)
 
 
 
@@ -226,7 +226,7 @@ x86 (2.59 GB)
 
 
 
-<span style="font-size: 15px">Microsoft Windows 10 Fall Creators Update  (version 1709 aka RS3, build 16299.15) (October 2017)</span>
+Microsoft Windows 10 Fall Creators Update  (version 1709 aka RS3, build 16299.15) (October 2017)
 
 
 
@@ -238,7 +238,7 @@ x86 (2.3 GB)
 
 
 
-<span style="color: rgb(0, 0, 0)">MICROSOFT WINDOWS 10 15063 RS2 REFRESH (Creators Update, July 2017)</span>
+MICROSOFT WINDOWS 10 15063 RS2 REFRESH (Creators Update, July 2017)
 
 
 
@@ -250,7 +250,7 @@ x64 (3.08 GB)
 
 
 
-<span style="color: rgb(0, 0, 0)">MICROSOFT WINDOWS 10 15063 RS2 REFRESH (Creators Update, June 2017)</span>
+MICROSOFT WINDOWS 10 15063 RS2 REFRESH (Creators Update, June 2017)
 
 
 
@@ -330,3 +330,12 @@ http://fg.v4.b1.download.windowsupdate.com/d/updt/2015/09/10240.16393.150909-145
 x64 (2.76 GB)
 
 http://b1.download.windowsupdate.com/d/updt/2015/09/10240.16393.150909-1450.th1_refresh_clientpro_ret_x86fre_en-us_eb12c94fc7f1f8b3f04e14f21f9c9cd0e4dc2563.esd
+x86 (2.09 GB)
+
+http://bg.v4.sh.dl.ws.microsoft.com/dl/content/c/updt/2015/05/10122.0.150513-1845.fbl_impressive_cliententerprise_vol_x64fre_en-us_f7418a3ac07640cd96e42bf589b8e49f411e50be.esd
+
+http://bg.v4.sh.dl.ws.microsoft.com/dl/content/c/updt/2015/05/10122.0.150513-1845.fbl_impressive_cliententerprise_vol_x86fre_en-us_0d524cca823bba429e2c466f1f23d243df522b67.esd
+
+http://bg.v4.sh.dl.ws.microsoft.com/dl/content/c/updt/2015/05/10122.0.150513-1845.fbl_impressive_clientpro_ret_x64fre_en-us_91ccec37df726d9306591d8f7fc0137c9bddf3bc.esd
+
+http://bg.v4.sh.dl.ws.microsoft.com/dl/content/c/updt/2015/05/10122.0.150513-1845.fbl_impressive_clientpro_ret_x86fre_en-us_43d17e4219facf6680a5b00e7e8b11969f23089e.esd
