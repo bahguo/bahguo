@@ -229,17 +229,17 @@ http://bg.v4.sh.dl.ws.microsoft.com/dl/content/c/updt/2015/05/10122.0.150513-184
 http://bg.v4.sh.dl.ws.microsoft.com/dl/content/c/updt/2015/05/10122.0.150513-1845.fbl_impressive_clientpro_ret_x64fre_en-us_91ccec37df726d9306591d8f7fc0137c9bddf3bc.esd
 http://bg.v4.sh.dl.ws.microsoft.com/dl/content/c/updt/2015/05/10122.0.150513-1845.fbl_impressive_clientpro_ret_x86fre_en-us_43d17e4219facf6680a5b00e7e8b11969f23089e.esd
 
-http://b1.download.windowsupdate.com/d/updt/2015/04/10074.0.150424-1350.fbl_impressive_CLIENTPRO_RET_x64fre_en-us_6171fdb41101598d83604fd6c0bb4a51c0a88913.esd
-x64 (2.39 GB)
-
-http://b1.download.windowsupdate.com/d/updt/2015/04/10074.0.150424-1350.fbl_impressive_CLIENTPRO_RET_x86fre_en-us_8777ade253e43ea8c03ad84c9b8036f80cdcc2ed.esd
-x86 (1.81 GB)
-
 http://b1.download.windowsupdate.com/d/updt/2015/04/10074.0.150424-1350.fbl_impressive_CLIENTENTERPRISE_VOL_x64fre_en-us_f2b9b2bc54bce5aB4c58dcaf2074bf5440025e49.esd
 x64 (2.34 GB)
 
 http://b1.download.windowsupdate.com/d/updt/2015/04/10074.0.150424-1350.fbl_impressive_CLIENTENTERPRISE_VOL_x86fre_en-us_290be6414cdd4200917bba817a68ad45830382c0.esd
 x86 (1.76 GB)
+
+http://b1.download.windowsupdate.com/d/updt/2015/04/10074.0.150424-1350.fbl_impressive_CLIENTPRO_RET_x64fre_en-us_6171fdb41101598d83604fd6c0bb4a51c0a88913.esd
+x64 (2.39 GB)
+
+http://b1.download.windowsupdate.com/d/updt/2015/04/10074.0.150424-1350.fbl_impressive_CLIENTPRO_RET_x86fre_en-us_8777ade253e43ea8c03ad84c9b8036f80cdcc2ed.esd
+x86 (1.81 GB)
 
 Technical Preview
 
@@ -279,10 +279,10 @@ x64 (2.75 GB)
 http://b1.download.windowsupdate.com/d/updt/2015/01/9926.0.150119-1648.fbl_awesome1501_CLIENTPRO_RET_x86fre_en-us_B54214664156F317AD8CE42BAE8BED187B64AC2F.esd
 x86 (2.20 GB)
 
-http://bg.v4.sh.dl.ws.microsoft.com/dl/content/c/updt/2014/10/9860.0.141008-2044.fbl_release_cliententerprise_vol_x64fre_en-us_0b5133ad911f25dacf3d880651a0324b8c9930b5.esd
+[http://bg.v4.sh.dl.ws.microsoft.com/dl/content/c/updt/2014/10/9860.0.141008-2044.fbl_release_cliententerprise_vol_x64fre_en-us_0b5133ad911f25dacf3d880651a0324b8c9930b5.esd
 http://bg.v4.sh.dl.ws.microsoft.com/dl/content/c/updt/2014/10/9860.0.141008-2044.fbl_release_cliententerprise_vol_x86fre_en-us_89240451ce72851c613b75fe540597f92acb07e4.esd
 http://bg.v4.sh.dl.ws.microsoft.com/dl/content/c/updt/2014/10/9860.0.141008-2044.fbl_release_clientpro_ret_x64fre_en-us_890f9c77dfdd9d3e7e9ac46e18fa7f4dd7b105d1.esd
-http://bg.v4.sh.dl.ws.microsoft.com/dl/content/c/updt/2014/10/9860.0.141008-2044.fbl_release_clientpro_ret_x86fre_en-us_4268ed97873110ab801beb19b3f5016090623c7c.esd
+http://bg.v4.sh.dl.ws.microsoft.com/dl/content/c/updt/2014/10/9860.0.141008-2044.fbl_release_clientpro_ret_x86fre_en-us_4268ed97873110ab801beb19b3f5016090623c7c.esd]()
 
 http://download.microsoft.com/download/F/5/7/F574727C-B145-4A7D-B85B-11C4E8DC894B/9841.0.amd64fre.fbl_release.140912-1613_server_serverdatacenter_en-us.vhd
 x64 (7.50 GB)
