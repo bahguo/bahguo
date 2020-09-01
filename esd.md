@@ -243,6 +243,18 @@ x86 (1.76 GB)
 
 Technical Preview
 
+http://b1.download.windowsupdate.com/c/updt/2015/03/10041.0.150313-1821.fbl_impressive_CLIENTENTERPRISE_VOL_x64fre_en-us_51D2530E174A927BE27C77EF96266E760811889C.esd
+x64 (2.26 GB)
+
+http://b1.download.windowsupdate.com/c/updt/2015/03/10041.0.150313-1821.fbl_impressive_CLIENTENTERPRISE_VOL_x86fre_en-us_78EBACDF7E48237A794CD537981CB21C281790F4.esd
+x86 (1.72 GB)
+
+http://b1.download.windowsupdate.com/c/updt/2015/03/10041.0.150313-1821.fbl_impressive_CLIENTPRO_RET_x64fre_en-us_8A78ED7270F949769B28E4F20600B25C7144936D.esd
+x64 (2.31 GB)
+
+http://b1.download.windowsupdate.com/c/updt/2015/03/10041.0.150313-1821.fbl_impressive_CLIENTPRO_RET_x86fre_en-us_DD2B8C7CDE09E426E94F64DEA1862E80FFE55BD5.esd
+x86 (1.77 GB)
+
 http://b1.download.windowsupdate.com/d/updt/2015/01/9926.0.150119-1648.fbl_awesome1501_CLIENTENTERPRISE_VOL_x64fre_en-us_3D769BA661791EB8C367A937492E2E4368E2A88B.esd
 x64 (2.7 GB)
 
