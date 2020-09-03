@@ -24,3 +24,11 @@ x86 (137.83 MB)
 
 http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windows8-kb2607607-x64-enu_881757c27fbcdf3170fedf7760a8a78858ca11c7.cab
 x64 (156.96 MB)
+
+LIP Language Pack
+
+https://download.microsoft.com/download/E/7/E/E7E71794-3CE7-4180-9406-F075145321D9/LIP_id-ID-64bit.mlc
+x64 (3.4 MB)
+
+https://download.microsoft.com/download/E/7/E/E7E71794-3CE7-4180-9406-F075145321D9/LIP_id-ID-32bit.mlc
+x86 (2.5 MB)
