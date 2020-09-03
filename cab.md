@@ -1,5 +1,8 @@
 Windows 8.1 MUI Language Pack
 
+http://fg.v4.download.windowsupdate.com/d/msdownload/update/software/updt/2014/11/windows8.1-kb3012997-x64-en-us-client_a7c55879fa34baad8fef641f316488e3b45de9f6.cab
+x64 (149.30 MB)
+
 http://fg.v4.download.windowsupdate.com/d/msdownload/update/software/updt/2014/11/windows8.1-kb3012997-x86-en-us-client_d4c1f3ac02803ae50ef89988b685a05f2d0f2479.cab
 x86 (118.9 MB)
 
