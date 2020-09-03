@@ -32,3 +32,11 @@ x64 (3.4 MB)
 
 https://download.microsoft.com/download/E/7/E/E7E71794-3CE7-4180-9406-F075145321D9/LIP_id-ID-32bit.mlc
 x86 (2.5 MB)
+
+Windows 7 LIP Language Pack
+
+https://download.microsoft.com/download/3/0/7/307EFB92-B8E7-4553-BAB0-161123A4000F/LIP_id-ID-64bit.mlc
+x64 (3.9 MB)
+
+https://download.microsoft.com/download/3/0/7/307EFB92-B8E7-4553-BAB0-161123A4000F/LIP_id-ID-32bit.mlc
+x86 (2.5 MB)
