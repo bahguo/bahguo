@@ -22,6 +22,8 @@ Visual Studio 2013
 
 Visual Studio 2012
 
+[](http://download.microsoft.com/download/6/e/c/6ec5b3cf-cc0d-448a-9846-8af059de7f72/win8express_full.exe)
+
 Visual Studio 2010
 
 https://download.microsoft.com/download/D/B/C/DBC11267-9597-46FF-8377-E194A73970D6/vs_proweb.exe
