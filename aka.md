@@ -28,6 +28,8 @@ http://download.microsoft.com/download/6/e/c/6ec5b3cf-cc0d-448a-9846-8af059de7f7
 
 http://download.microsoft.com/download/d/b/0/db03922c-ff91-4845-b7f2-fc68595ab730/vs_ultimate.exe
 
+http://download.microsoft.com/download/a/c/f/acfefce0-9bc1-4f8c-80b8-06a0929ed926/tfs_server.exe
+
 http://download.microsoft.com/download/7/9/7/7971903e-34e0-460c-9b38-84e8c1d0f3c3/vs_testprofessional.exe
 
 http://download.microsoft.com/download/D/E/8/DE8E42D8-7598-4F4E-93D4-BB011094E2F9/vs_professional.exe
