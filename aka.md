@@ -18,9 +18,23 @@ Visual Studio 2015
 
 Visual Studio 2013
 
+http://download.microsoft.com/download/D/3/6/D364752C-0A13-4C64-8E39-8CD04AD2C444/winexpress_full.exe
+
 http://download.microsoft.com/download/7/2/E/72E0F986-D247-4289-B9DC-C4FB07374894/wdexpress_full.exe
 
+http://download.microsoft.com/download/C/F/B/CFBB5FF1-0B27-42E0-8141-E4D6DA0B8B13/vs_ultimate.exe
+
+http://download.microsoft.com/download/4/0/6/406E397F-EDBE-4437-B64F-40DF7A92A26E/vs_testprofessional.exe
+
+http://download.microsoft.com/download/A/F/1/AF128362-A6A8-4DB3-A39A-C348086472CC/vs_professional.exe
+
+http://download.microsoft.com/download/D/B/D/DBDEE6BB-AF28-4C76-A5F8-710F610615F7/vs_premium.exe
+
 http://download.microsoft.com/download/B/B/2/BB2AB17F-7BF1-477B-8BD5-488C843F122B/vns_full.exe
+
+http://download.microsoft.com/download/E/D/A/EDAAC091-0B80-46D1-974A-861C94E5B139/tfs_server.exe
+
+http://download.microsoft.com/download/1/D/4/1D4802FE-5971-4A27-8E42-87EE5ACE8777/tfs_express.exe
 
 Visual Studio 2012
 
