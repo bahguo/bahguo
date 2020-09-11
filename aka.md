@@ -18,7 +18,9 @@ Visual Studio 2015
 
 Visual Studio 2013
 
-[](http://download.microsoft.com/download/2/5/5/255DCCB6-F364-4ED8-9758-EF0734CA86B8/wdexpress_full.exe)
+http://download.microsoft.com/download/7/2/E/72E0F986-D247-4289-B9DC-C4FB07374894/wdexpress_full.exe
+
+http://download.microsoft.com/download/B/B/2/BB2AB17F-7BF1-477B-8BD5-488C843F122B/vns_full.exe
 
 Visual Studio 2012
 
