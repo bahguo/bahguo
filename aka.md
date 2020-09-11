@@ -24,17 +24,19 @@ http://download.microsoft.com/download/B/B/2/BB2AB17F-7BF1-477B-8BD5-488C843F122
 
 Visual Studio 2012
 
+https://download.microsoft.com/download/9/3/8/938A5074-461F-4E3D-89F4-5CE2F42C1E36/wpexpress_full.exe
+
 http://download.microsoft.com/download/6/e/c/6ec5b3cf-cc0d-448a-9846-8af059de7f72/win8express_full.exe
 
 http://download.microsoft.com/download/d/b/0/db03922c-ff91-4845-b7f2-fc68595ab730/vs_ultimate.exe
-
-http://download.microsoft.com/download/a/c/f/acfefce0-9bc1-4f8c-80b8-06a0929ed926/tfs_server.exe
 
 http://download.microsoft.com/download/7/9/7/7971903e-34e0-460c-9b38-84e8c1d0f3c3/vs_testprofessional.exe
 
 http://download.microsoft.com/download/D/E/8/DE8E42D8-7598-4F4E-93D4-BB011094E2F9/vs_professional.exe
 
 http://download.microsoft.com/download/1/3/1/131D8A8C-95D8-41D4-892A-1DF6E3C5DF7D/vs_premium.exe
+
+http://download.microsoft.com/download/a/c/f/acfefce0-9bc1-4f8c-80b8-06a0929ed926/tfs_server.exe
 
 http://download.microsoft.com/download/2/5/7/2574813c-972d-4943-96f9-aceaa52f0740/tfs_express.exe
 
