@@ -1,14 +1,28 @@
+Visual Studio 2019
+
 https://aka.ms/vs/16/release/vs_enterprise.exe
 
 https://aka.ms/vs/16/release/vs_professional.exe
 
 https://aka.ms/vs/16/release/vs_community.exe
 
+Visual Studio 2017
+
 https://aka.ms/vs/15/release/vs_enterprise.exe
 
 https://aka.ms/vs/15/release/vs_professional.exe
 
 https://aka.ms/vs/15/release/vs_community.exe
+
+Visual Studio 2015
+
+Visual Studio 2013
+
+[](http://download.microsoft.com/download/2/5/5/255DCCB6-F364-4ED8-9758-EF0734CA86B8/wdexpress_full.exe)
+
+Visual Studio 2012
+
+Visual Studio 2010
 
 https://download.microsoft.com/download/D/B/C/DBC11267-9597-46FF-8377-E194A73970D6/vs_proweb.exe
 
