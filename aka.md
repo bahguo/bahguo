@@ -1,16 +1,20 @@
 Visual Studio 2019
 
-https://aka.ms/vs/16/release/vs_enterprise.exe
+https://aka.ms/vs/16/release/vs_testprofessional.exe
 
 https://aka.ms/vs/16/release/vs_professional.exe
+
+https://aka.ms/vs/16/release/vs_enterprise.exe
 
 https://aka.ms/vs/16/release/vs_community.exe
 
 Visual Studio 2017
 
-https://aka.ms/vs/15/release/vs_enterprise.exe
+https://aka.ms/vs/15/release/vs_testprofessional.exe
 
 https://aka.ms/vs/15/release/vs_professional.exe
+
+https://aka.ms/vs/15/release/vs_enterprise.exe
 
 https://aka.ms/vs/15/release/vs_community.exe
 
@@ -20,6 +24,7 @@ http://download.microsoft.com/download/9/1/0/910EE61D-A231-4DAB-BD56-DCE7092687D
 
 http://download.microsoft.com/download/a/b/a/abaec841-9f4e-48fc-b482-d7e200d3d403/vs_vmsdk.exe
 
+[](http://download.microsoft.com/download/6/2/6/626E579E-C602-4C50-8CDC-8A0D9E2A658B/testprofessional_ENU.exe)
 http://download.microsoft.com/download/8/5/6/856E021B-39D6-4593-B7BB-2F8D1178EBCB/vs_testprofessional.exe
 
 [https://download.microsoft.com/download/c/0/4/c04e3eff-c8e5-486c-af04-b85abb693cc7/vs_professional.exe](https://go.microsoft.com/fwlink/?LinkId=615435)
