@@ -10,6 +10,10 @@ Visual Studio 2017
 
 https://download.visualstudio.microsoft.com/download/pr/5f6dfbf7-a8f7-4f36-9b9e-928867c28c08/57643ea3ec44292fd259f0ad8b29334d0e16f08a9ab8e4c63b3033257ed9e591/vs_TestProfessional.exe
 
+https://download.visualstudio.microsoft.com/download/pr/5f6dfbf7-a8f7-4f36-9b9e-928867c28c08/41941a2c5160a05ce23e8cd405206eea5c66d704a39479f84cf29dc7300374e8/vs_TeamExplorer.exe
+
+https://download.visualstudio.microsoft.com/download/pr/5f6dfbf7-a8f7-4f36-9b9e-928867c28c08/ef55b1f97dc722ec0bc74fab179669a1af2c9a35a3af05dcdbdd34cc631e9cd3/vs_FeedbackClient.exe
+
 https://aka.ms/vs/15/release/vs_professional.exe
 
 https://aka.ms/vs/15/release/vs_enterprise.exe
