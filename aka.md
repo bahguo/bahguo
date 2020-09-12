@@ -1,12 +1,6 @@
 Visual Studio 2019
 
-https://aka.ms/vs/16/release/vs_testprofessional.exe
-
-https://aka.ms/vs/16/release/vs_teamexplorer.exe
-
 https://aka.ms/vs/16/release/vs_professional.exe
-
-https://aka.ms/vs/16/release/vs_feedbackclient.exe
 
 https://aka.ms/vs/16/release/vs_enterprise.exe
 
@@ -14,13 +8,9 @@ https://aka.ms/vs/16/release/vs_community.exe
 
 Visual Studio 2017
 
-https://aka.ms/vs/15/release/vs_testprofessional.exe
-
-https://aka.ms/vs/15/release/vs_teamexplorer.exe
+https://download.visualstudio.microsoft.com/download/pr/5f6dfbf7-a8f7-4f36-9b9e-928867c28c08/57643ea3ec44292fd259f0ad8b29334d0e16f08a9ab8e4c63b3033257ed9e591/vs_TestProfessional.exe
 
 https://aka.ms/vs/15/release/vs_professional.exe
-
-https://aka.ms/vs/15/release/vs_feedbackclient.exe
 
 https://aka.ms/vs/15/release/vs_enterprise.exe
 
