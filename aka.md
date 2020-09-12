@@ -2,7 +2,11 @@ Visual Studio 2019
 
 https://aka.ms/vs/16/release/vs_testprofessional.exe
 
+https://aka.ms/vs/16/release/vs_teamexplorer.exe
+
 https://aka.ms/vs/16/release/vs_professional.exe
+
+https://aka.ms/vs/16/release/vs_feedbackclient.exe
 
 https://aka.ms/vs/16/release/vs_enterprise.exe
 
@@ -12,7 +16,11 @@ Visual Studio 2017
 
 https://aka.ms/vs/15/release/vs_testprofessional.exe
 
+https://aka.ms/vs/15/release/vs_teamexplorer.exe
+
 https://aka.ms/vs/15/release/vs_professional.exe
+
+https://aka.ms/vs/15/release/vs_feedbackclient.exe
 
 https://aka.ms/vs/15/release/vs_enterprise.exe
 
