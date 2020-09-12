@@ -16,11 +16,11 @@ https://aka.ms/vs/15/release/vs_community.exe
 
 Visual Studio 2015
 
-http://download.microsoft.com/download/6/4/7/647EC5B1-68BE-445E-B137-916A0AE51304/vs_enterprise.exe
+[https://download.microsoft.com/download/1/2/d/12d1feae-15a0-4d32-8643-4f38915eb07c/vs_enterprise.exe](https://go.microsoft.com/fwlink/?LinkId=615437)
 
-http://download.microsoft.com/download/5/8/9/589A8843-BA4D-4E63-BCB2-B2380E5556FD/vs_professional.exe
+[https://download.microsoft.com/download/c/0/4/c04e3eff-c8e5-486c-af04-b85abb693cc7/vs_professional.exe](https://go.microsoft.com/fwlink/?LinkId=615435)
 
-http://download.microsoft.com/download/0/B/C/0BC321A4-013F-479C-84E6-4A2F90B11269/vs_community.exe
+[https://download.microsoft.com/download/e/4/c/e4c393a9-8fff-441b-ad3a-3f4040317a1f/vs_community.exe](https://go.microsoft.com/fwlink/?LinkId=532606)
 
 Visual Studio 2013
 
