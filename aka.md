@@ -87,6 +87,18 @@ https://download.microsoft.com/download/B/1/7/B17C731C-3161-45C0-AC16-56C81BAAF8
 [](https://download.microsoft.com/download/5/B/1/5B124B97-99FC-4816-BB84-01C33FD24D95/VS2010PremTrial_4PartsTotal.part3.rar)
 [](https://download.microsoft.com/download/5/B/1/5B124B97-99FC-4816-BB84-01C33FD24D95/VS2010PremTrial_4PartsTotal.part4.rar)
 
+Office 2013
+
+http://care.dlservice.microsoft.com/download/4/7/1/4712B4E1-4DD9-4468-B8A4-507D7F988B1F/professionalplus_en-us_x86.exe
+
+http://care.dlservice.microsoft.com//dl/download/4/7/A/47A7A155-17DA-45E3-99F9-C9B08E81781B/projectprofessional_en-us_x86.exe
+
+http://care.dlservice.microsoft.com//dl/download/E/4/9/E49D3E1A-28B5-45C6-8E4F-9B2B2E0E0F53/visioprofessional_en-us_x86.exe
+
+http://download.microsoft.com/download/2/3/4/234521FC-0DB3-494B-A78D-AF81193FA59B/Exchange-x64.exe
+
+http://download.microsoft.com/download/E/7/F/E7F39294-9523-4C48-92E9-48F7CA04CFAB/WebAppsServer_en-us_x64.img
+
 Office 2010
 
 http://download.microsoft.com/download/evalx/office2010/x86/EN/ProfessionalPlus.exe
