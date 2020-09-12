@@ -16,11 +16,24 @@ https://aka.ms/vs/15/release/vs_community.exe
 
 Visual Studio 2015
 
-[https://download.microsoft.com/download/1/2/d/12d1feae-15a0-4d32-8643-4f38915eb07c/vs_enterprise.exe](https://go.microsoft.com/fwlink/?LinkId=615437)
+http://download.microsoft.com/download/9/1/0/910EE61D-A231-4DAB-BD56-DCE7092687D5/vssdk_full.exe
+
+http://download.microsoft.com/download/a/b/a/abaec841-9f4e-48fc-b482-d7e200d3d403/vs_vmsdk.exe
+
+http://download.microsoft.com/download/8/5/6/856E021B-39D6-4593-B7BB-2F8D1178EBCB/vs_testprofessional.exe
 
 [https://download.microsoft.com/download/c/0/4/c04e3eff-c8e5-486c-af04-b85abb693cc7/vs_professional.exe](https://go.microsoft.com/fwlink/?LinkId=615435)
 
+http://download.microsoft.com/download/9/C/6/9C60AE8E-7BC2-477D-8A54-75288E6BA8EF/vs_feedbackclient.exe
+
+[https://download.microsoft.com/download/1/2/d/12d1feae-15a0-4d32-8643-4f38915eb07c/vs_enterprise.exe](https://go.microsoft.com/fwlink/?LinkId=615437)
+
 [https://download.microsoft.com/download/e/4/c/e4c393a9-8fff-441b-ad3a-3f4040317a1f/vs_community.exe](https://go.microsoft.com/fwlink/?LinkId=532606)
+
+http://download.microsoft.com/download/5/f/7/5f7acaeb-8363-451f-9425-68a90f98b238/visualcppbuildtools_full.exe
+
+http://download.microsoft.com/download/4/3/3/4330912d-79ae-4037-8a55-7a8fc6b5eb68/buildtools_full.exe
+[](http://download.microsoft.com/download/E/E/D/EEDF18A8-4AED-4CE0-BEBE-70A83094FC5A/buildtools_full.exe)
 
 Visual Studio 2013
 
