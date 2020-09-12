@@ -16,6 +16,12 @@ https://aka.ms/vs/15/release/vs_community.exe
 
 Visual Studio 2015
 
+http://download.microsoft.com/download/6/4/7/647EC5B1-68BE-445E-B137-916A0AE51304/vs_enterprise.exe
+
+http://download.microsoft.com/download/5/8/9/589A8843-BA4D-4E63-BCB2-B2380E5556FD/vs_professional.exe
+
+http://download.microsoft.com/download/0/B/C/0BC321A4-013F-479C-84E6-4A2F90B11269/vs_community.exe
+
 Visual Studio 2013
 
 http://download.microsoft.com/download/D/3/6/D364752C-0A13-4C64-8E39-8CD04AD2C444/winexpress_full.exe
@@ -29,6 +35,8 @@ http://download.microsoft.com/download/4/0/6/406E397F-EDBE-4437-B64F-40DF7A92A26
 http://download.microsoft.com/download/A/F/1/AF128362-A6A8-4DB3-A39A-C348086472CC/vs_professional.exe
 
 http://download.microsoft.com/download/D/B/D/DBDEE6BB-AF28-4C76-A5F8-710F610615F7/vs_premium.exe
+
+http://download.microsoft.com/download/7/1/B/71BA74D8-B9A0-4E6C-9159-A8335D54437E/vs_community.exe
 
 http://download.microsoft.com/download/B/B/2/BB2AB17F-7BF1-477B-8BD5-488C843F122B/vns_full.exe
 
@@ -89,11 +97,11 @@ https://download.microsoft.com/download/B/1/7/B17C731C-3161-45C0-AC16-56C81BAAF8
 
 Office 2013
 
-http://care.dlservice.microsoft.com/download/4/7/1/4712B4E1-4DD9-4468-B8A4-507D7F988B1F/professionalplus_en-us_x86.exe
+http://download.microsoft.com/download/4/7/1/4712B4E1-4DD9-4468-B8A4-507D7F988B1F/professionalplus_en-us_x86.exe
 
-http://care.dlservice.microsoft.com//dl/download/4/7/A/47A7A155-17DA-45E3-99F9-C9B08E81781B/projectprofessional_en-us_x86.exe
+http://download.microsoft.com/download/4/7/A/47A7A155-17DA-45E3-99F9-C9B08E81781B/projectprofessional_en-us_x86.exe
 
-http://care.dlservice.microsoft.com//dl/download/E/4/9/E49D3E1A-28B5-45C6-8E4F-9B2B2E0E0F53/visioprofessional_en-us_x86.exe
+http://download.microsoft.com/download/E/4/9/E49D3E1A-28B5-45C6-8E4F-9B2B2E0E0F53/visioprofessional_en-us_x86.exe
 
 http://download.microsoft.com/download/2/3/4/234521FC-0DB3-494B-A78D-AF81193FA59B/Exchange-x64.exe
 
