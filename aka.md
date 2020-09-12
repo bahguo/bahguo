@@ -22,14 +22,16 @@ https://aka.ms/vs/15/release/vs_community.exe
 
 Visual Studio 2015
 
-
 http://download.microsoft.com/download/5/1/2/51272291-B7C9-49C1-A562-7DEB693F0EE7/winexpress_full.exe
 
 http://download.microsoft.com/download/D/E/5/DE5263E9-A58D-469A-BA16-14786E2E2B1C/wdexpress_full.exe
 
+http://download.microsoft.com/download/9/1/0/910EE61D-A231-4DAB-BD56-DCE7092687D5/vssdk_full.exe
+
 http://download.microsoft.com/download/a/b/a/abaec841-9f4e-48fc-b482-d7e200d3d403/vs_vmsdk.exe
 
-http://download.microsoft.com/download/9/1/0/910EE61D-A231-4DAB-BD56-DCE7092687D5/vssdk_full.exe
+[](http://download.microsoft.com/download/6/2/6/626E579E-C602-4C50-8CDC-8A0D9E2A658B/testprofessional_ENU.exe)
+http://download.microsoft.com/download/8/5/6/856E021B-39D6-4593-B7BB-2F8D1178EBCB/vs_testprofessional.exe
 
 [https://download.microsoft.com/download/c/0/4/c04e3eff-c8e5-486c-af04-b85abb693cc7/vs_professional.exe](https://go.microsoft.com/fwlink/?LinkId=615435)
 
@@ -44,9 +46,6 @@ http://download.microsoft.com/download/3/A/2/3A21E166-8760-4595-A421-622706FD892
 http://download.microsoft.com/download/5/f/7/5f7acaeb-8363-451f-9425-68a90f98b238/visualcppbuildtools_full.exe
 
 http://download.microsoft.com/download/D/5/5/D55B3B8C-A270-495F-BEF9-846AB05F294B/tfs_server.exe
-
-[](http://download.microsoft.com/download/6/2/6/626E579E-C602-4C50-8CDC-8A0D9E2A658B/testprofessional_ENU.exe)
-http://download.microsoft.com/download/8/5/6/856E021B-39D6-4593-B7BB-2F8D1178EBCB/vs_testprofessional.exe
 
 http://download.microsoft.com/download/4/3/3/4330912d-79ae-4037-8a55-7a8fc6b5eb68/buildtools_full.exe
 [](http://download.microsoft.com/download/E/E/D/EEDF18A8-4AED-4CE0-BEBE-70A83094FC5A/buildtools_full.exe)
