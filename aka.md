@@ -1,12 +1,24 @@
 Visual Studio 2019
 
+https://download.visualstudio.microsoft.com/download/pr/44fbb1ed-c06e-41c9-bc39-3d7f2083d61b/2f1f8d42e1267ba51e73be4f52bcc7009503275e4ff6cf29c6f6b16dbd49ad52/vs_TestAgent.exe
+
+https://download.visualstudio.microsoft.com/download/pr/44fbb1ed-c06e-41c9-bc39-3d7f2083d61b/300a2e9b04de7903cac368df0157bbc805983bb7d0135ad06eab4cf1c247193e/vs_TeamExplorer.exe
+
 https://aka.ms/vs/16/release/vs_professional.exe
 
 https://aka.ms/vs/16/release/vs_enterprise.exe
 
 https://aka.ms/vs/16/release/vs_community.exe
 
+https://aka.ms/vs/16/release/StandaloneProfiler.x86ret.enu.exe
+
+https://aka.ms/vs/16/release/RemoteTools.x86ret.enu.exe
+
+https://aka.ms/vs/16/release/IntelliTraceCollector.x86ret.enu.exe
+
 Visual Studio 2017
+
+https://download.visualstudio.microsoft.com/download/pr/5f6dfbf7-a8f7-4f36-9b9e-928867c28c08/af5b4d3693976b8d80dfd70776b0e70e00e09252574382b078ddd649fab1f18e/vs_TestAgent.exe
 
 https://download.visualstudio.microsoft.com/download/pr/5f6dfbf7-a8f7-4f36-9b9e-928867c28c08/57643ea3ec44292fd259f0ad8b29334d0e16f08a9ab8e4c63b3033257ed9e591/vs_TestProfessional.exe
 
@@ -19,6 +31,12 @@ https://aka.ms/vs/15/release/vs_professional.exe
 https://aka.ms/vs/15/release/vs_enterprise.exe
 
 https://aka.ms/vs/15/release/vs_community.exe
+
+https://aka.ms/vs/15/release/StandaloneProfiler.x86ret.enu.exe
+
+https://aka.ms/vs/15/release/RemoteTools.x86ret.enu.exe
+
+https://aka.ms/vs/15/release/IntelliTraceCollector.x86ret.enu.exe
 
 Visual Studio 2015
 
