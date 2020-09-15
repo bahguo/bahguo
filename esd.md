@@ -305,3 +305,17 @@ Pre-Technical Preview (early development)
 
 http://b1.download.windowsupdate.com/d/updt/2014/09/9833.0.140903-1451.fbl_release_clientpro_ret_x64fre_zh-cn_04df30fd539d1685bb1078fbab3963063b00398a.esd
 x64 (2.70 GB)
+
+Windows Server 2016 Evaluations
+
+http://care.dlservice.microsoft.com/dl/download/C/C/6/CC6F1E5C-1A32-44EC-B611-C7AEE11E2B11/NanoServerDatacenter.vhd.exe
+
+Windows Server 2012 R2 Evaluations
+
+http://care.dlservice.microsoft.com/dl/download/5/8/1/58147EF7-5E3C-4107-B7FE-F296B05F435F/9600.16415.amd64fre.winblue_refresh.130928-2229_server_serverdatacentereval_en-us.vhd
+
+Windows Server 2008 R2 Enterprise
+
+https://download.microsoft.com/download/5/4/C/54C15FA1-B3AA-4A8B-B26C-47C3BA7A20E0/WS2008R2Fullx64Ent.part01.exe
+https://download.microsoft.com/download/5/4/C/54C15FA1-B3AA-4A8B-B26C-47C3BA7A20E0/WS2008R2Fullx64Ent.part02.rar
+https://download.microsoft.com/download/5/4/C/54C15FA1-B3AA-4A8B-B26C-47C3BA7A20E0/WS2008R2Fullx64Ent.part03.rar
