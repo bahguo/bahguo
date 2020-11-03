@@ -1,3 +1,15 @@
+Visual Studio Code
+
+https://aka.ms/win32-arm64-user
+
+https://aka.ms/win32-user-stable
+[](https://go.microsoft.com//fwlink/?Linkid=623230)
+[](https://go.microsoft.com//fwlink/?Linkid=623231)
+
+https://aka.ms/win32-x64-user-stable
+[](https://go.microsoft.com//fwlink/?Linkid=850641)
+[](https://go.microsoft.com//fwlink/?Linkid=852157)
+
 Visual Studio 2019
 
 https://download.visualstudio.microsoft.com/download/pr/44fbb1ed-c06e-41c9-bc39-3d7f2083d61b/2f1f8d42e1267ba51e73be4f52bcc7009503275e4ff6cf29c6f6b16dbd49ad52/vs_TestAgent.exe
