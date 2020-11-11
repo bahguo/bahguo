@@ -1,10 +1,38 @@
 Visual Studio Code
 
+https://aka.ms/AppleSiliconExploration
+
+https://aka.ms/linux-arm64-insider
+
+https://aka.ms/linux-arm64-deb-insider
+
+https://aka.ms/linux-arm64-rpm-insider
+
+https://aka.ms/linux-arm64
+
+https://aka.ms/linux-armhf-insider
+
+https://aka.ms/linux-armhf-deb-insider
+
+https://aka.ms/linux-armhf-rpm-insider
+
+https://aka.ms/linux-armhf
+
+https://aka.ms/win32-arm64-setup-insider
+
+https://aka.ms/win32-arm64-user-insider
+
 https://aka.ms/win32-arm64-user
+
+https://aka.ms/win32-arm64-archive-insider
+
+https://aka.ms/win32-user-insider
 
 https://aka.ms/win32-user-stable
 [](https://go.microsoft.com//fwlink/?Linkid=623230)
 [](https://go.microsoft.com//fwlink/?Linkid=623231)
+
+https://aka.ms/win32-x64-user-insider
 
 https://aka.ms/win32-x64-user-stable
 [](https://go.microsoft.com//fwlink/?Linkid=850641)
