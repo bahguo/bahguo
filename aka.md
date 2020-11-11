@@ -38,47 +38,69 @@ https://aka.ms/win32-x64-user-stable
 [](https://go.microsoft.com//fwlink/?Linkid=850641)
 [](https://go.microsoft.com//fwlink/?Linkid=852157)
 
+Visual Studio for Mac
+
+https://aka.ms/vs4mac-download
+
 Visual Studio 2019
 
-https://download.visualstudio.microsoft.com/download/pr/44fbb1ed-c06e-41c9-bc39-3d7f2083d61b/2f1f8d42e1267ba51e73be4f52bcc7009503275e4ff6cf29c6f6b16dbd49ad52/vs_TestAgent.exe
+https://aka.ms/vs/16/release/vs_Professional.exe
 
-https://download.visualstudio.microsoft.com/download/pr/44fbb1ed-c06e-41c9-bc39-3d7f2083d61b/300a2e9b04de7903cac368df0157bbc805983bb7d0135ad06eab4cf1c247193e/vs_TeamExplorer.exe
+https://aka.ms/vs/16/release/vs_Enterprise.exe
 
-https://aka.ms/vs/16/release/vs_professional.exe
+https://aka.ms/vs/16/release/vs_Community.exe
 
-https://aka.ms/vs/16/release/vs_enterprise.exe
+https://aka.ms/vs/16/release/StandaloneProfiler.arm64ret.enu.exe [(x64)](https://aka.ms/vs/16/release/StandaloneProfiler.amd64ret.enu.exe) [(x86)](https://aka.ms/vs/16/release/StandaloneProfiler.x86ret.enu.exe)
 
-https://aka.ms/vs/16/release/vs_community.exe
-
-https://aka.ms/vs/16/release/StandaloneProfiler.x86ret.enu.exe
-
-https://aka.ms/vs/16/release/RemoteTools.x86ret.enu.exe
+https://aka.ms/vs/16/release/RemoteTools.amd64ret.enu.exe [(x86)](https://aka.ms/vs/16/release/RemoteTools.x86ret.enu.exe)
 
 https://aka.ms/vs/16/release/IntelliTraceCollector.x86ret.enu.exe
 
+https://aka.ms/vs/16/release/vs_TeamExplorer.exe
+[](https://download.visualstudio.microsoft.com/download/pr/44fbb1ed-c06e-41c9-bc39-3d7f2083d61b/300a2e9b04de7903cac368df0157bbc805983bb7d0135ad06eab4cf1c247193e/vs_TeamExplorer.exe)
+
+https://aka.ms/vs/16/release/vs_TestAgent.exe
+[](https://download.visualstudio.microsoft.com/download/pr/44fbb1ed-c06e-41c9-bc39-3d7f2083d61b/2f1f8d42e1267ba51e73be4f52bcc7009503275e4ff6cf29c6f6b16dbd49ad52/vs_TestAgent.exe)
+
+https://aka.ms/vs/16/release/vs_TestController.exe
+
+https://aka.ms/vs/16/release/vs_BuildTools.exe
+
 Visual Studio 2017
 
-https://download.visualstudio.microsoft.com/download/pr/5f6dfbf7-a8f7-4f36-9b9e-928867c28c08/af5b4d3693976b8d80dfd70776b0e70e00e09252574382b078ddd649fab1f18e/vs_TestAgent.exe
+https://aka.ms/vs/15/release/installer
 
-https://download.visualstudio.microsoft.com/download/pr/5f6dfbf7-a8f7-4f36-9b9e-928867c28c08/57643ea3ec44292fd259f0ad8b29334d0e16f08a9ab8e4c63b3033257ed9e591/vs_TestProfessional.exe
+https://aka.ms/vs/15/release/vs_Professional.exe
 
-https://download.visualstudio.microsoft.com/download/pr/5f6dfbf7-a8f7-4f36-9b9e-928867c28c08/41941a2c5160a05ce23e8cd405206eea5c66d704a39479f84cf29dc7300374e8/vs_TeamExplorer.exe
+https://aka.ms/vs/15/release/vs_Enterprise.exe
 
-https://download.visualstudio.microsoft.com/download/pr/5f6dfbf7-a8f7-4f36-9b9e-928867c28c08/ef55b1f97dc722ec0bc74fab179669a1af2c9a35a3af05dcdbdd34cc631e9cd3/vs_FeedbackClient.exe
+https://aka.ms/vs/15/release/vs_Community.exe
 
-https://aka.ms/vs/15/release/vs_professional.exe
+https://aka.ms/vs/15/release/StandaloneProfiler.arm64ret.enu.exe [(x64)](https://aka.ms/vs/15/release/StandaloneProfiler.amd64ret.enu.exe) [(x86)](https://aka.ms/vs/15/release/StandaloneProfiler.x86ret.enu.exe)
 
-https://aka.ms/vs/15/release/vs_enterprise.exe
-
-https://aka.ms/vs/15/release/vs_community.exe
-
-https://aka.ms/vs/15/release/StandaloneProfiler.x86ret.enu.exe
-
-https://aka.ms/vs/15/release/RemoteTools.x86ret.enu.exe
+https://aka.ms/vs/15/release/RemoteTools.amd64ret.enu.exe [(x86)](https://aka.ms/vs/15/release/RemoteTools.x86ret.enu.exe)
 
 https://aka.ms/vs/15/release/IntelliTraceCollector.x86ret.enu.exe
 
+https://aka.ms/vs/15/release/vs_TeamExplorer.exe
+[](https://download.visualstudio.microsoft.com/download/pr/5f6dfbf7-a8f7-4f36-9b9e-928867c28c08/41941a2c5160a05ce23e8cd405206eea5c66d704a39479f84cf29dc7300374e8/vs_TeamExplorer.exe)
+
+https://aka.ms/vs/15/release/vs_TestProfessional.exe
+[](https://download.visualstudio.microsoft.com/download/pr/5f6dfbf7-a8f7-4f36-9b9e-928867c28c08/57643ea3ec44292fd259f0ad8b29334d0e16f08a9ab8e4c63b3033257ed9e591/vs_TestProfessional.exe)
+
+https://aka.ms/vs/15/release/vs_TestAgent.exe
+[](https://download.visualstudio.microsoft.com/download/pr/5f6dfbf7-a8f7-4f36-9b9e-928867c28c08/af5b4d3693976b8d80dfd70776b0e70e00e09252574382b078ddd649fab1f18e/vs_TestAgent.exe)
+
+https://aka.ms/vs/15/release/vs_TestController.exe
+
+https://aka.ms/vs/15/release/vs_FeedbackClient.exe
+[](https://download.visualstudio.microsoft.com/download/pr/5f6dfbf7-a8f7-4f36-9b9e-928867c28c08/ef55b1f97dc722ec0bc74fab179669a1af2c9a35a3af05dcdbdd34cc631e9cd3/vs_FeedbackClient.exe)
+
+https://aka.ms/vs/15/release/vs_BuildTools.exe
+
 Visual Studio 2015
+
+https://aka.ms/vs/14/release/4567703
 
 https://download.microsoft.com/download/5/1/2/51272291-B7C9-49C1-A562-7DEB693F0EE7/winexpress_full.exe
 
@@ -110,6 +132,8 @@ https://download.microsoft.com/download/4/3/3/4330912d-79ae-4037-8a55-7a8fc6b5eb
 
 Visual Studio 2013
 
+https://aka.ms/vs/14/release/4089283
+
 https://download.microsoft.com/download/D/3/6/D364752C-0A13-4C64-8E39-8CD04AD2C444/winexpress_full.exe
 
 https://download.microsoft.com/download/7/2/E/72E0F986-D247-4289-B9DC-C4FB07374894/wdexpress_full.exe
@@ -132,6 +156,8 @@ https://download.microsoft.com/download/1/D/4/1D4802FE-5971-4A27-8E42-87EE5ACE87
 
 Visual Studio 2012
 
+https://aka.ms/vs/11/release/4571479
+
 https://download.microsoft.com/download/9/3/8/938A5074-461F-4E3D-89F4-5CE2F42C1E36/wpexpress_full.exe
 
 https://download.microsoft.com/download/6/e/c/6ec5b3cf-cc0d-448a-9846-8af059de7f72/win8express_full.exe
@@ -153,6 +179,8 @@ https://download.microsoft.com/download/a/c/f/acfefce0-9bc1-4f8c-80b8-06a0929ed9
 https://download.microsoft.com/download/2/5/7/2574813c-972d-4943-96f9-aceaa52f0740/tfs_express.exe
 
 Visual Studio 2010
+
+https://aka.ms/vs/10/release/4476698
 
 https://download.microsoft.com/download/4/0/6/4067968E-5530-4A08-B8EC-17D2B3F02C35/vs_ultimateweb.exe
 
