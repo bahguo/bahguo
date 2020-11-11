@@ -2,29 +2,13 @@ Visual Studio Code
 
 https://aka.ms/AppleSiliconExploration
 
-https://aka.ms/linux-arm64-insider
+https://aka.ms/linux-arm64-insider [(arm64.deb)](https://aka.ms/linux-arm64-deb-insider) [(.deb)](https://aka.ms/linux-armhf-deb-insider) [(arm64.rpm)](https://aka.ms/linux-arm64-rpm-insider) [(.rpm)](https://aka.ms/linux-armhf-rpm-insider) [(.tar.gz)](https://aka.ms/linux-armhf-insider)
 
-https://aka.ms/linux-arm64-deb-insider
+https://aka.ms/linux-arm64 [(arm64.deb)](https://aka.ms/linux-arm64-deb) [(.deb)](https://aka.ms/linux-armhf-deb)  [(arm64.rpm)](https://aka.ms/linux-arm64-rpm) [(.rpm)](https://aka.ms/linux-armhf-rpm) [(.tar.gz)](https://aka.ms/linux-armhf)
 
-https://aka.ms/linux-arm64-rpm-insider
+https://aka.ms/win32-arm64-user-insider [(system)](https://aka.ms/win32-arm64-setup-insider) [(.zip)](https://aka.ms/win32-arm64-archive-insider)
 
-https://aka.ms/linux-arm64
-
-https://aka.ms/linux-armhf-insider
-
-https://aka.ms/linux-armhf-deb-insider
-
-https://aka.ms/linux-armhf-rpm-insider
-
-https://aka.ms/linux-armhf
-
-https://aka.ms/win32-arm64-setup-insider
-
-https://aka.ms/win32-arm64-user-insider
-
-https://aka.ms/win32-arm64-user
-
-https://aka.ms/win32-arm64-archive-insider
+https://aka.ms/win32-arm64-user [(system)](https://aka.ms/win32-arm64-setup) [(.zip)](https://aka.ms/win32-arm64-archive)
 
 https://aka.ms/win32-user-insider
 
