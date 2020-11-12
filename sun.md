@@ -41,7 +41,7 @@ http://javadl.sun.com/webapps/download/GetFile/1.8.0_91-b15/windows-i586/jre-8u9
 http://javadl.sun.com/webapps/download/GetFile/1.8.0_91-b15/windows-i586/jre-8u91-windows-i586.exe
 
 [https://download.oracle.com/otn/java/jdk/7u79-b15/jre-7u79-windows-x64.exe](https://javadl.sun.com/webapps/download/AutoDL?BundleId=106369)
-[https://download.oracle.com/otn/java/jdk/7u79-b15/jre-7u79-windows-x64.exe](https://javadl.sun.com/webapps/download/AutoDL?BundleId=106367)
+[https://download.oracle.com/otn/java/jdk/7u79-b15/jre-7u79-windows-i586.exe](https://javadl.sun.com/webapps/download/AutoDL?BundleId=106367)
 
 
 http://javadl.sun.com/webapps/download/GetFile/1.7.0_21-b11/windows-i586/jre-7u21-windows-x64.exe
