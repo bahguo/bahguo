@@ -1,21 +1,36 @@
+[https://download.oracle.com/otn/java/jdk/15.0.1+9/jre-15.0.1_windows-x64_bin.exe](https://javadl.oracle.com/webapps/download/GetFile/15.0.1+9/51f4f36ad4ef43e39d0dfdbaf6549e32/windows-i586/jre-15.0.1_windows-x64_bin.exe)
+[](https://download.java.net/java/GA/jdk15/779bf45e88a44cbd9ea6621d33e33db1/36/GPL/openjdk-15_windows-x64_bin.zip)
+
+[https://download.oracle.com/otn/java/jdk/14.0.2+12/jre-14.0.2_windows-x64_bin.exe](https://javadl.oracle.com/webapps/download/GetFile/14.0.2+12/205943a0976c4ed48cb16f1043c5c647/windows-i586/jre-14.0.2_windows-x64_bin.exe)
+<!--
 https://download.oracle.com/otn-pub/java/jdk/14.0.1+7/664493ef4a6946b186ff29eb326336a2/jdk-14.0.1_windows-x64_bin.exe
+https://download.java.net/java/GA/jdk14/076bab302c7b4508975440c56f6cc26a/36/GPL/openjdk-14_windows-x64_bin.zip
+-->
 
-https://download.oracle.com/otn/java/jdk/13.0.2+8/d4173c853231432d94f001e99d882ca7/jdk-13.0.2_windows-x64_bin.exe
+[https://download.oracle.com/otn/java/jdk/13.0.2+8/jre-13.0.2_windows-x64_bin.exe](https://javadl.oracle.com/webapps/download/GetFile/13.0.2+8/d4173c853231432d94f001e99d882ca7/windows-i586/jre-13.0.2_windows-x64_bin.exe)
+<!--
+https://download.java.net/java/GA/jdk13.0.1/cec27d702aa74d5a8630c65ae61e4305/9/GPL/openjdk-13.0.1_windows-x64_bin.zip
+https://download.java.net/java/GA/jdk13/5b8a42f3905b406298b72d750b6919f6/33/GPL/openjdk-13_windows-x64_bin.zip
+-->
 
-https://download.oracle.com/otn-pub/java/jdk/12.0.2+10/e482c34c86bd4bf8b56c0b35558996b9/jdk-12.0.2_osx-x64_bin.dmg
+[https://download.oracle.com/otn/java/jdk/12.0.2+10/jre-12.0.2_windows-x64_bin.exe](https://javadl.oracle.com/webapps/download/GetFile/12.0.2+10/e482c34c86bd4bf8b56c0b35558996b9/windows-i586/jre-12.0.2_windows-x64_bin.exe)
+[](https://download.java.net/java/GA/jdk12.0.1/69cfe15208a647278a19ef0990eea691/12/GPL/openjdk-12.0.1_windows-x64_bin.zip)
 
+[https://download.oracle.com/otn/java/jdk/11.0.9+7/jre-11.0.9_windows-x64_bin.exe](https://javadl.oracle.com/webapps/download/GetFile/11.0.9+7/eec35ebefb3f4133bd045b891f05db94/windows-i586/jre-11.0.9_windows-x64_bin.exe)
+<!--
 https://download.oracle.com/otn/java/jdk/11.0.8+10/dc5cf74f97104e8eac863698146a7ac3/jdk-11.0.8_windows-x64_bin.exe
-
 https://download.oracle.com/otn-pub/java/jdk/11.0.7+8/8c7daf89330c48f0b9e32f57169f7bac/jdk-11.0.7_windows-x64_bin.zip
-
 https://download.oracle.com/otn-pub/java/jdk/11.0.6+8/90eb79fb590d45c8971362673c5ab495/jdk-11.0.6_linux-x64_bin.tar.gz
+https://javadl.oracle.com/webapps/download/GetFile/11.0.2+9/f51449fcd52f4d52b93a989c5c56ed3c/windows-i586/jdk-11.0.2_windows-x64_bin.exe
+https://javadl.oracle.com/webapps/download/GetFile/11.0.1+13/90cf5d8f270a4347a95050320eef3fb7/windows-i586/jdk-11.0.1_windows-x64_bin.exe
+-->
 
-https://download.oracle.com/otn/java/jdk/11.0.2+9/jdk-11.0.2_windows-x64_bin.exe](https://javadl.oracle.com/webapps/download/GetFile/11.0.2+9/f51449fcd52f4d52b93a989c5c56ed3c/windows-i586/jdk-11.0.2_windows-x64_bin.exe)
-[https://download.oracle.com/otn/java/jdk/11.0.1+13/jdk-11.0.1_windows-x64_bin.exe](https://javadl.oracle.com/webapps/download/GetFile/11.0.1+13/90cf5d8f270a4347a95050320eef3fb7/windows-i586/jdk-11.0.1_windows-x64_bin.exe)
+[https://download.oracle.com/otn/java/jdk/10.0.2+13/jre-10.0.2_windows-x64_bin.exe](https://javadl.oracle.com/webapps/download/GetFile/10.0.2+13/19aef61b38124481863b1413dce1855f/windows-i586/jre-10.0.2_windows-x64_bin.exe)
+[](https://download.java.net/java/GA/jdk10/10.0.1/fb4372174a714e6b8c52526dc134031e/10/openjdk-10.0.1_windows-x64_bin.tar.gz)
 
-[https://download.oracle.com/otn/java/jdk/9.0.3+9/jre-9.0.4-windows-x64_bin.exe](http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227513) [(x86)](http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227514)
+[https://download.oracle.com/otn/java/jdk/9.0.4+11/jre-9.0.4_windows-x64_bin.exe](https://javadl.oracle.com/webapps/download/GetFile/9.0.4+11/c2514751926b4512b076cc82f959763f/windows-i586/jre-9.0.4_windows-x64_bin.exe)
 
-[https://download.oracle.com/otn/java/jdk/9.0.3+9/jdk-9.0.4-windows-x64_bin.exe](http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227476) [(x86)](http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227477)
+[https://download.oracle.com/otn/java/jdk/9.0.4+11/jdk-9.0.4_windows-x64_bin.exe](https://javadl.oracle.com/webapps/download/GetFile/9.0.4+11/c2514751926b4512b076cc82f959763f/windows-i586/jdk-9.0.4_windows-x64_bin.exe)
 <!--//ru-board.club
 JRE 9.0.3+9 x64
 
