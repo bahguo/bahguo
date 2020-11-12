@@ -13,29 +13,32 @@ https://download.oracle.com/otn-pub/java/jdk/11.0.6+8/90eb79fb590d45c8971362673c
 https://download.oracle.com/otn/java/jdk/11.0.2+9/jdk-11.0.2_windows-x64_bin.exe](https://javadl.oracle.com/webapps/download/GetFile/11.0.2+9/f51449fcd52f4d52b93a989c5c56ed3c/windows-i586/jdk-11.0.2_windows-x64_bin.exe)
 [https://download.oracle.com/otn/java/jdk/11.0.1+13/jdk-11.0.1_windows-x64_bin.exe](https://javadl.oracle.com/webapps/download/GetFile/11.0.1+13/90cf5d8f270a4347a95050320eef3fb7/windows-i586/jdk-11.0.1_windows-x64_bin.exe)
 
-<!--//ru-board.club
+[https://download.oracle.com/otn/java/jdk/9.0.3+9/jre-9.0.4-windows-x64_bin.exe](http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227513) [(x86)](http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227514)
 
- JRE 9.0.3+9 x64
- 
+[https://download.oracle.com/otn/java/jdk/9.0.3+9/jdk-9.0.4-windows-x64_bin.exe](http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227476) [(x86)](http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227477)
+<!--//ru-board.club
+JRE 9.0.3+9 x64
+
 http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227482
 http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227513
- 
+
 JRE 9.0.3+9 x86
 http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227485
 http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227514
- 
+
 JRE 9.0.3+9 x64 MSI
 http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227516
- 
+
 JRE 9.0.3+9 x64 MSI
 http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227515
- 
+
 JDK 9.0.3+9 x64
 http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227476
- 
+
 JDK 9.0.3+9 x86
 http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227477
 -->
+
 [https://download.oracle.com/otn/java/jdk/8u271-b09/jdk-8u271-windows-x64.exe](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=243737_61ae65e088624f5aaa0b1d2d801acb16) [(x86)](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=243735_61ae65e088624f5aaa0b1d2d801acb16)
 
 https://download.oracle.com/otn-pub/java/jdk/8u261-b12/a4634525489241b9a9e1aa73d9e118e6/jdk-8u261-windows-x64.exe
@@ -44,31 +47,31 @@ https://download.oracle.com/otn-pub/java/jdk/8u261-b12/a4634525489241b9a9e1aa73d
 
 https://download.oracle.com/otn-pub/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jre-8u241-windows-x64.exe
 
-[https://download.oracle.com/otn/java/jdk/8u231-b11/jdk-8u231-windows-x64.exe](https://javadl.oracle.com/webapps/download/GetFile/1.8.0_231-b11/5b13a193868b4bf28bcb45c792fce896/windows-i586/jre-8u231-windows-x64.exe) [(x86)](http://javadl.oracle.com/webapps/download/GetFile/1.8.0_231-b11/5b13a193868b4bf28bcb45c792fce896/windows-i586/jre-8u231-windows-i586.exe)
+[https://download.oracle.com/otn/java/jdk/8u231-b11/jre-8u231-windows-x64.exe](https://javadl.oracle.com/webapps/download/GetFile/1.8.0_231-b11/5b13a193868b4bf28bcb45c792fce896/windows-i586/jre-8u231-windows-x64.exe) [(x86)](https://javadl.oracle.com/webapps/download/GetFile/1.8.0_231-b11/5b13a193868b4bf28bcb45c792fce896/windows-i586/jre-8u231-windows-i586.exe)
 
 https://download.oracle.com/otn-pub/java/jdk/8u212-b10/59066701cf1a433da9770636fbc4c9aa/jdk-8u212-windows-x64.exe
 
 https://download.oracle.com/otn-pub/java/jdk/8u181-b13/96a7b8442fe848ef90c96a2fad6ed6d1/jdk-8u181-windows-x64.exe
 
-[https://download.oracle.com/otn/java/jdk/8u121-b13/jre-8u121-windows-x64.exe](https://javadl.oracle.com/webapps/download/GetFile/1.8.0_121-b13/e9e7ea248e2c4826b92b3f075a80e441/windows-i586/jre-8u121-windows-x64.exe) [(x86)](http://javadl.oracle.com/webapps/download/GetFile/1.8.0_121-b13/e9e7ea248e2c4826b92b3f075a80e441/windows-i586/jre-8u121-windows-i586.exe)
+[https://download.oracle.com/otn/java/jdk/8u121-b13/jre-8u121-windows-x64.exe](https://javadl.oracle.com/webapps/download/GetFile/1.8.0_121-b13/e9e7ea248e2c4826b92b3f075a80e441/windows-i586/jre-8u121-windows-x64.exe) [(x86)](https://javadl.oracle.com/webapps/download/GetFile/1.8.0_121-b13/e9e7ea248e2c4826b92b3f075a80e441/windows-i586/jre-8u121-windows-i586.exe)
 
-[https://download.oracle.com/otn/java/jdk/8u111-b14/jre-8u111-windows-x64.exe](https://javadl.sun.com/webapps/download/GetFile/1.8.0_111-b14/windows-i586/jre-8u111-windows-x64.exe) [(x86)](http://javadl.sun.com/webapps/download/GetFile/1.8.0_111-b14/windows-i586/jre-8u111-windows-i586.exe)
+[https://download.oracle.com/otn/java/jdk/8u111-b14/jre-8u111-windows-x64.exe](https://javadl.sun.com/webapps/download/GetFile/1.8.0_111-b14/windows-i586/jre-8u111-windows-x64.exe) [(x86)](https://javadl.sun.com/webapps/download/GetFile/1.8.0_111-b14/windows-i586/jre-8u111-windows-i586.exe)
 
-[https://download.oracle.com/otn/java/jdk/8u91-b15/jre-8u91-windows-x64.exe](https://javadl.sun.com/webapps/download/GetFile/1.8.0_91-b15/windows-i586/jre-8u91-windows-x64.exe) [(x86)](http://javadl.sun.com/webapps/download/GetFile/1.8.0_91-b15/windows-i586/jre-8u91-windows-i586.exe)
+[https://download.oracle.com/otn/java/jdk/8u91-b15/jre-8u91-windows-x64.exe](https://javadl.sun.com/webapps/download/GetFile/1.8.0_91-b15/windows-i586/jre-8u91-windows-x64.exe) [(x86)](https://javadl.sun.com/webapps/download/GetFile/1.8.0_91-b15/windows-i586/jre-8u91-windows-i586.exe)
+
+[https://download.oracle.com/otn/java/jdk/7u80-b15/jre-7u80-windows-x64.exe](https://javadl.sun.com/webapps/download/GetFile/1.7.0_80-b15/windows-i586/jre-7u80-windows-x64.exe) [(x86)](https://javadl.sun.com/webapps/download/GetFile/1.7.0_80-b15/windows-i586/jre-7u80-windows-i586.exe)
 
 [https://download.oracle.com/otn/java/jdk/7u79-b15/jre-7u79-windows-x64.exe](https://javadl.sun.com/webapps/download/AutoDL?BundleId=106369) [(x86)](https://javadl.sun.com/webapps/download/AutoDL?BundleId=106367)
 
-[https://download.oracle.com/otn/java/jdk/7u21-b11/jre-7u21-windows-x64.exe](http://javadl.sun.com/webapps/download/GetFile/1.7.0_21-b11/windows-i586/jre-7u21-windows-x64.exe) [(x86)](http://javadl.sun.com/webapps/download/GetFile/1.7.0_21-b11/windows-i586/jre-7u21-windows-i586.exe)
+[https://download.oracle.com/otn/java/jdk/7u21-b11/jre-7u21-windows-x64.exe](https://javadl.sun.com/webapps/download/GetFile/1.7.0_21-b11/windows-i586/jre-7u21-windows-x64.exe) [(x86)](https://javadl.sun.com/webapps/download/GetFile/1.7.0_21-b11/windows-i586/jre-7u21-windows-i586.exe)
 <!--
 Sun Java SE Runtime Environment 7 Update 9
-x86: http://javadl.sun.com/webapps/download/AutoDL?BundleId=69474
-x64: http://javadl.sun.com/webapps/download/AutoDL?BundleId=69476
-[](http://javadl.sun.com/webapps/download/AutoDL?BundleId=51869&jre-7-windows-x64.exe)
-[](http://javadl.sun.com/webapps/download/AutoDL?BundleId=50974&jre-7-windows-i586.exe)
+x86: https://javadl.sun.com/webapps/download/AutoDL?BundleId=69474
+x64: https://javadl.sun.com/webapps/download/AutoDL?BundleId=69476
 -->
 
 [https://download.oracle.com/otn/java/jdk/6u45-b06/jre-6u45-windows-i586.exe](
-https://javadl.sun.com/webapps/download/AutoDL?BundleId=76208) [(ia64)](http://javadl.sun.com/webapps/download/GetFile/1.6.0_45-b06/windows-i586/jre-6u45-windows-ia64.exe) [(x64)](https://javadl.sun.com/webapps/download/AutoDL?BundleId=76209) [(x86)](http://javadl.sun.com/webapps/download/GetFile/1.6.0_45-b06/windows-i586/jre-6u45-windows-i586-iftw.exe)
+https://javadl.sun.com/webapps/download/AutoDL?BundleId=76208) [(ia64)](https://javadl.sun.com/webapps/download/GetFile/1.6.0_45-b06/windows-i586/jre-6u45-windows-ia64.exe) [(x64)](https://javadl.sun.com/webapps/download/AutoDL?BundleId=76209) [(x86)](https://javadl.sun.com/webapps/download/GetFile/1.6.0_45-b06/windows-i586/jre-6u45-windows-i586-iftw.exe)
 
 <!--
 Sun Java SE Runtime Environment 6 Update 37
