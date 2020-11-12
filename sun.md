@@ -22,31 +22,19 @@ JDK 9.0.3+9 x86
 http://javadl.oracle.com/webapps/download/AutoDL?BundleId=227477
 -->
 
-https://javadl.oracle.com/webapps/download/AutoDL?BundleId=243737_61ae65e088624f5aaa0b1d2d801acb16&jdk-8u271-windows-x64.exe
+[https://download.oracle.com/otn/java/jdk/8u271-b09/61ae65e088624f5aaa0b1d2d801acb16/jdk-8u271-windows-x64.exe](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=243737_61ae65e088624f5aaa0b1d2d801acb16) [(x86)](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=243735_61ae65e088624f5aaa0b1d2d801acb16)
 
-http://javadl.oracle.com/webapps/download/GetFile/1.8.0_231-b11/5b13a193868b4bf28bcb45c792fce896/windows-i586/jre-8u121-windows-x64.exe
+https://javadl.oracle.com/webapps/download/GetFile/1.8.0_231-b11/5b13a193868b4bf28bcb45c792fce896/windows-i586/jre-8u121-windows-x64.exe [(x86)](http://javadl.oracle.com/webapps/download/GetFile/1.8.0_231-b11/5b13a193868b4bf28bcb45c792fce896/windows-i586/jre-8u121-windows-i586.exe)
 
-http://javadl.oracle.com/webapps/download/GetFile/1.8.0_231-b11/5b13a193868b4bf28bcb45c792fce896/windows-i586/jre-8u121-windows-i586.exe
+https://javadl.oracle.com/webapps/download/GetFile/1.8.0_121-b13/e9e7ea248e2c4826b92b3f075a80e441/windows-i586/jre-8u121-windows-x64.exe [(x86)](http://javadl.oracle.com/webapps/download/GetFile/1.8.0_121-b13/e9e7ea248e2c4826b92b3f075a80e441/windows-i586/jre-8u121-windows-i586.exe)
 
-http://javadl.oracle.com/webapps/download/GetFile/1.8.0_121-b13/e9e7ea248e2c4826b92b3f075a80e441/windows-i586/jre-8u121-windows-x64.exe
+https://javadl.sun.com/webapps/download/GetFile/1.8.0_111-b14/windows-i586/jre-8u111-windows-x64.exe [(x86)](http://javadl.sun.com/webapps/download/GetFile/1.8.0_111-b14/windows-i586/jre-8u111-windows-i586.exe)
 
-http://javadl.oracle.com/webapps/download/GetFile/1.8.0_121-b13/e9e7ea248e2c4826b92b3f075a80e441/windows-i586/jre-8u121-windows-i586.exe
+https://javadl.sun.com/webapps/download/GetFile/1.8.0_91-b15/windows-i586/jre-8u91-windows-x64.exe [(x86)](http://javadl.sun.com/webapps/download/GetFile/1.8.0_91-b15/windows-i586/jre-8u91-windows-i586.exe)
 
-http://javadl.sun.com/webapps/download/GetFile/1.8.0_111-b14/windows-i586/jre-8u111-windows-x64.exe
+[https://download.oracle.com/otn/java/jdk/7u79-b15/jre-7u79-windows-x64.exe](https://javadl.sun.com/webapps/download/AutoDL?BundleId=106369) [(x86)](https://javadl.sun.com/webapps/download/AutoDL?BundleId=106367)
 
-http://javadl.sun.com/webapps/download/GetFile/1.8.0_111-b14/windows-i586/jre-8u111-windows-i586.exe
-
-http://javadl.sun.com/webapps/download/GetFile/1.8.0_91-b15/windows-i586/jre-8u91-windows-x64.exe
-
-http://javadl.sun.com/webapps/download/GetFile/1.8.0_91-b15/windows-i586/jre-8u91-windows-i586.exe
-
-[https://download.oracle.com/otn/java/jdk/7u79-b15/jre-7u79-windows-x64.exe](https://javadl.sun.com/webapps/download/AutoDL?BundleId=106369)
-[https://download.oracle.com/otn/java/jdk/7u79-b15/jre-7u79-windows-i586.exe](https://javadl.sun.com/webapps/download/AutoDL?BundleId=106367)
-
-
-http://javadl.sun.com/webapps/download/GetFile/1.7.0_21-b11/windows-i586/jre-7u21-windows-x64.exe
-
-http://javadl.sun.com/webapps/download/GetFile/1.7.0_21-b11/windows-i586/jre-7u21-windows-i586.exe
+http://javadl.sun.com/webapps/download/GetFile/1.7.0_21-b11/windows-i586/jre-7u21-windows-x64.exe [(x86)](http://javadl.sun.com/webapps/download/GetFile/1.7.0_21-b11/windows-i586/jre-7u21-windows-i586.exe)
 <!--
 Sun Java SE Runtime Environment 7 Update 9
 x86: http://javadl.sun.com/webapps/download/AutoDL?BundleId=69474
