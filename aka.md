@@ -1,3 +1,7 @@
+<!-- Root Certificate Authority
+https://aka.ms/CTLDownload
+http://go.microsoft.com/fwlink/?linkid=747875&clcid=0x409?http://download.microsoft.com/download/2/4/8/248D8A62-FCCD-475C-85E7-6ED59520FC0F/MicrosoftRootCertificateAuthority2011.cer:http://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt
+-->
 Visual Studio Code
 
 https://aka.ms/AppleSiliconExploration
