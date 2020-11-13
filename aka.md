@@ -1,6 +1,11 @@
-<!-- Root Certificate Authority
+<!-- PKI Repository - PKI Services
+Certificate Root Authority
+https://www.microsoft.com/pkiops/Docs/Repository.htm
 https://aka.ms/CTLDownload
 http://go.microsoft.com/fwlink/?linkid=747875&clcid=0x409?http://download.microsoft.com/download/2/4/8/248D8A62-FCCD-475C-85E7-6ED59520FC0F/MicrosoftRootCertificateAuthority2011.cer:http://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt
+A certificate chain could not be built to a trusted root authority
+A certificate chain processed, but terminated in a root certificate which is not trusted by the trust provider
+The remote certificate is invalid because of errors in the certificate chain: UntrustedRoot
 -->
 Visual Studio Code
 
