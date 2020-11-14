@@ -6,6 +6,7 @@ http://go.microsoft.com/fwlink/?linkid=747875&clcid=0x409?http://download.micros
 A certificate chain could not be built to a trusted root authority
 A certificate chain processed, but terminated in a root certificate which is not trusted by the trust provider
 The remote certificate is invalid because of errors in the certificate chain: UntrustedRoot
+https://support.microsoft.com/en-us/help/2813430/an-update-is-available-that-enables-administrators-to-update-trusted-a
 -->
 Visual Studio Code
 
