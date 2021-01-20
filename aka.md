@@ -11,26 +11,35 @@ https://support.microsoft.com/en-us/help/2813430/an-update-is-available-that-ena
 Visual Studio Code
 
 https://aka.ms/AppleSiliconExploration
+[](https://code.visualstudio.com/sha/download?build=insider&os=darwin)
+[](https://code.visualstudio.com/sha/download?build=insider&os=darwin-arm64)
 
-https://aka.ms/linux-arm64-insider [(arm64.deb)](https://aka.ms/linux-arm64-deb-insider) [(.deb)](https://aka.ms/linux-armhf-deb-insider) [(arm64.rpm)](https://aka.ms/linux-arm64-rpm-insider) [(.rpm)](https://aka.ms/linux-armhf-rpm-insider) [(.tar.gz)](https://aka.ms/linux-armhf-insider)
+https://aka.ms/linux-arm64-insider [(.deb)](https://aka.ms/linux-arm64-deb-insider) [(.rpm)](https://aka.ms/linux-arm64-rpm-insider)
 
-https://aka.ms/linux-arm64 [(arm64.deb)](https://aka.ms/linux-arm64-deb) [(.deb)](https://aka.ms/linux-armhf-deb)  [(arm64.rpm)](https://aka.ms/linux-arm64-rpm) [(.rpm)](https://aka.ms/linux-armhf-rpm) [(.tar.gz)](https://aka.ms/linux-armhf)
+https://aka.ms/linux-arm64 [(.deb)](https://aka.ms/linux-arm64-deb) [(.rpm)](https://aka.ms/linux-arm64-rpm)
+
+[(.tar.gz)](https://code.visualstudio.com/sha/download?build=stable&os=linux-x64) [(.deb)](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64) [(.rpm)](https://code.visualstudio.com/sha/download?build=stable&os=linux-rpm-x64)
+
+https://aka.ms/linux-armhf-insider [(.deb)](https://aka.ms/linux-armhf-deb-insider) [(.rpm)](https://aka.ms/linux-armhf-rpm-insider)
+
+https://aka.ms/linux-armhf [(.deb)](https://aka.ms/linux-armhf-deb) [(.rpm)](https://aka.ms/linux-armhf-rpm)
 
 https://aka.ms/win32-arm64-user-insider [(system)](https://aka.ms/win32-arm64-setup-insider) [(.zip)](https://aka.ms/win32-arm64-archive-insider)
 
 https://aka.ms/win32-arm64-user [(system)](https://aka.ms/win32-arm64-setup) [(.zip)](https://aka.ms/win32-arm64-archive)
-
-https://aka.ms/win32-user-insider
-
-https://aka.ms/win32-user-stable [(system)](https://code.visualstudio.com/sha/download?build=stable&os=win32) [(.zip)](https://code.visualstudio.com/sha/download?build=stable&os=win32-archive)
-[](https://go.microsoft.com//fwlink/?Linkid=623230)
-[](https://go.microsoft.com//fwlink/?Linkid=623231)
 
 https://aka.ms/win32-x64-user-insider
 
 https://aka.ms/win32-x64-user-stable [(system)](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64) [(.zip)](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-archive)
 [](https://go.microsoft.com//fwlink/?Linkid=850641)
 [](https://go.microsoft.com//fwlink/?Linkid=852157)
+
+https://aka.ms/win32-user-insider [(system)](https://code.visualstudio.com/sha/download?build=insider&os=win32) [(.zip)](https://code.visualstudio.com/sha/download?build=insider&os=win32-archive)
+[](https://code.visualstudio.com/sha/download?build=insider&os=win32-user)
+
+https://aka.ms/win32-user-stable [(system)](https://code.visualstudio.com/sha/download?build=stable&os=win32) [(.zip)](https://code.visualstudio.com/sha/download?build=stable&os=win32-archive)
+[](https://go.microsoft.com//fwlink/?Linkid=623230)
+[](https://go.microsoft.com//fwlink/?Linkid=623231)
 
 Visual Studio for Mac
 
