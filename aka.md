@@ -22,13 +22,13 @@ https://aka.ms/win32-arm64-user [(system)](https://aka.ms/win32-arm64-setup) [(.
 
 https://aka.ms/win32-user-insider
 
-https://aka.ms/win32-user-stable
+https://aka.ms/win32-user-stable [(system)](https://code.visualstudio.com/sha/download?build=stable&os=win32) [(.zip)](https://code.visualstudio.com/sha/download?build=stable&os=win32-archive)
 [](https://go.microsoft.com//fwlink/?Linkid=623230)
 [](https://go.microsoft.com//fwlink/?Linkid=623231)
 
 https://aka.ms/win32-x64-user-insider
 
-https://aka.ms/win32-x64-user-stable
+https://aka.ms/win32-x64-user-stable [(system)](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64) [(.zip)](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-archive)
 [](https://go.microsoft.com//fwlink/?Linkid=850641)
 [](https://go.microsoft.com//fwlink/?Linkid=852157)
 
