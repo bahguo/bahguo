@@ -28,7 +28,7 @@ https://aka.ms/win32-arm64-user-insider [(system)](https://aka.ms/win32-arm64-se
 
 https://aka.ms/win32-arm64-user [(system)](https://aka.ms/win32-arm64-setup) [(.zip)](https://aka.ms/win32-arm64-archive)
 
-https://aka.ms/win32-x64-user-insider
+https://aka.ms/win32-x64-user-insider [(system)](https://code.visualstudio.com/sha/download?build=insider&os=win32-x64) [(.zip)](https://code.visualstudio.com/sha/download?build=insider&os=win32-x64-archive)
 
 https://aka.ms/win32-x64-user-stable [(system)](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64) [(.zip)](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-archive)
 [](https://go.microsoft.com//fwlink/?Linkid=850641)
