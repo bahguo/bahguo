@@ -45,6 +45,28 @@ Visual Studio for Mac
 
 https://aka.ms/vs4mac-download
 
+Visual Studio 2022
+
+https://aka.ms/vs/17/release/vs_Professional.exe
+
+https://aka.ms/vs/17/release/vs_Enterprise.exe
+
+https://aka.ms/vs/17/release/vs_Community.exe
+
+https://aka.ms/vs/17/release/StandaloneProfiler.arm64ret.enu.exe [(x64)](https://aka.ms/vs/17/release/StandaloneProfiler.amd64ret.enu.exe) [(x86)](https://aka.ms/vs/17/release/StandaloneProfiler.x86ret.enu.exe)
+
+https://aka.ms/vs/17/release/RemoteTools.amd64ret.enu.exe [(x86)](https://aka.ms/vs/17/release/RemoteTools.x86ret.enu.exe)
+
+https://aka.ms/vs/17/release/IntelliTraceCollector.x86ret.enu.exe
+
+https://aka.ms/vs/17/release/vs_TeamExplorer.exe
+
+https://aka.ms/vs/17/release/vs_TestAgent.exe
+
+https://aka.ms/vs/17/release/vs_TestController.exe
+
+https://aka.ms/vs/17/release/vs_BuildTools.exe
+
 Visual Studio 2019
 
 https://aka.ms/vs/16/release/vs_Professional.exe
@@ -212,9 +234,11 @@ https://download.microsoft.com/download/B/1/7/B17C731C-3161-45C0-AC16-56C81BAAF8
 [](https://download.microsoft.com/download/5/B/1/5B124B97-99FC-4816-BB84-01C33FD24D95/VS2010PremTrial_4PartsTotal.part3.rar)
 [](https://download.microsoft.com/download/5/B/1/5B124B97-99FC-4816-BB84-01C33FD24D95/VS2010PremTrial_4PartsTotal.part4.rar)
 
-Office 365
+Office 2022
 
 Office 2019
+
+Office 365
 
 Office 2016
 
