@@ -244,11 +244,11 @@ Office 2016
 
 Office 2013
 
-https://download.microsoft.com/download/4/7/1/4712B4E1-4DD9-4468-B8A4-507D7F988B1F/professionalplus_en-us_x86.exe
+https://download.microsoft.com/download/2/9/C/29CC45EF-4CDA-4710-9FB3-1489786570A1/OfficeProfessionalPlus_en-us_x86.exe [](https://download.microsoft.com/download/4/7/1/4712B4E1-4DD9-4468-B8A4-507D7F988B1F/professionalplus_en-us_x86.exe)
 
-https://download.microsoft.com/download/4/7/A/47A7A155-17DA-45E3-99F9-C9B08E81781B/projectprofessional_en-us_x86.exe
+https://download.microsoft.com/download/6/6/2/662A612F-B3E9-4A94-9396-C92F656BA100/ProjectProfessional_x86_en-us.exe [](https://download.microsoft.com/download/4/7/A/47A7A155-17DA-45E3-99F9-C9B08E81781B/projectprofessional_en-us_x86.exe)
 
-https://download.microsoft.com/download/E/4/9/E49D3E1A-28B5-45C6-8E4F-9B2B2E0E0F53/visioprofessional_en-us_x86.exe
+https://download.microsoft.com/download/0/B/D/0BD8B67A-FA3A-402A-AEC4-B18616340D59/VisioProfessional_x86_en-us.exe [](https://download.microsoft.com/download/E/4/9/E49D3E1A-28B5-45C6-8E4F-9B2B2E0E0F53/visioprofessional_en-us_x86.exe)
 [](https://download.microsoft.com/download/2/3/4/234521FC-0DB3-494B-A78D-AF81193FA59B/Exchange-x64.exe)
 [](https://download.microsoft.com/download/E/7/F/E7F39294-9523-4C48-92E9-48F7CA04CFAB/WebAppsServer_en-us_x64.img)
 [](https://download.microsoft.com/download/B/E/9/BE9E63FA-40EA-44C1-9389-C0C58F47A279/SharePointServer_en-us.img)
@@ -265,6 +265,7 @@ https://care.dlservice.microsoft.com/dl/download/evalx/visio2010/x86/EN/VisioSin
 http://c2r.microsoft.com/oconline/en-us/7577.280/x86/en-US/LyncSetup.exe [(x64)](https://download.cnet.com/Microsoft-Lync-2010-64-Bit/3001-20432_4-75450308.html)
 
 https://download.microsoft.com/download/7/9/B/79B9134E-D725-41AC-A04A-053BA7F0D678/SharePointDesigner.exe [(x64)](https://download.microsoft.com/download/5/B/6/5B645118-85F5-41D6-8DB9-2B7BAB835A79/SharePointDesigner.exe)
+
 https://download.microsoft.com/download/3/0/3/30383778-FB6F-429A-9F65-AF1FE57D7017/Exchange2010-SP3-x64.exe
 [](http://www2.eit.ac.nz/library/lync/Lync%20Installer.pkg)
 [](https://download.microsoft.com/download/office2010/2/4/7/247A463C-AF98-4778-B5A3-934CB8D198D1/ProfessionalPlus.exe)
