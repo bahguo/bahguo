@@ -262,7 +262,11 @@ https://care.dlservice.microsoft.com/dl/download/evalx/project2010/x86/EN/Projec
 
 https://care.dlservice.microsoft.com/dl/download/evalx/visio2010/x86/EN/VisioSingleImage.exe
 
+http://c2r.microsoft.com/oconline/en-us/7577.280/x86/en-US/LyncSetup.exe [(x64)](https://download.cnet.com/Microsoft-Lync-2010-64-Bit/3001-20432_4-75450308.html)
+
+https://download.microsoft.com/download/7/9/B/79B9134E-D725-41AC-A04A-053BA7F0D678/SharePointDesigner.exe [(x64)](https://download.microsoft.com/download/5/B/6/5B645118-85F5-41D6-8DB9-2B7BAB835A79/SharePointDesigner.exe)
 https://download.microsoft.com/download/3/0/3/30383778-FB6F-429A-9F65-AF1FE57D7017/Exchange2010-SP3-x64.exe
+[](http://www2.eit.ac.nz/library/lync/Lync%20Installer.pkg)
 [](https://download.microsoft.com/download/office2010/2/4/7/247A463C-AF98-4778-B5A3-934CB8D198D1/ProfessionalPlus.exe)
 [](https://download.microsoft.com/download/office2010/7/B/A/7BA627BB-E4FA-42A3-89DF-66C1B5382334/ProfessionalPlus.exe)
 [](https://download.microsoft.com/download/project2010/E/2/E/E2E817FD-5999-40F8-8A1B-F5BF385E5C8D/ProjectProfessional.exe)
