@@ -236,11 +236,19 @@ https://download.microsoft.com/download/B/1/7/B17C731C-3161-45C0-AC16-56C81BAAF8
 
 Office 365
 
-Office 2022
+https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.58.22021501_BusinessPro_Installer.pkg
+
+Office 2021
+
+https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.58.22021501_HomeStudent_Installer.pkg
 
 Office 2019
 
+https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.58.22021501_Installer.pkg
+
 Office 2016
+
+https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_15.11.2_150701_Installer.pkg
 
 Office 2013
 
