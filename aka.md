@@ -254,6 +254,12 @@ https://download.microsoft.com/download/0/B/D/0BD8B67A-FA3A-402A-AEC4-B18616340D
 [](https://download.microsoft.com/download/B/E/9/BE9E63FA-40EA-44C1-9389-C0C58F47A279/SharePointServer_en-us.img)
 [](https://download.microsoft.com/download/F/5/3/F53FED95-9B8A-4E19-A294-CA5996755421/LS-E-enUS-8132.0.iso)
 
+https://download.microsoft.com/download/3/E/3/3E383BC4-C6EC-4DEA-A86A-C0E99F0F3BD9/sharepointdesigner_32bit.exe [(x64)](https://download.microsoft.com/download/3/E/3/3E383BC4-C6EC-4DEA-A86A-C0E99F0F3BD9/sharepointdesigner_64bit.exe)
+
+Office 2011 for Mac
+
+http://officecdn.microsoft.com/pr/MacOffice2011/en-US/MicrosoftOffice2011.dmg
+
 Office 2010
 
 https://care.dlservice.microsoft.com/dl/download/evalx/office2010/x86/EN/ProfessionalPlus.exe
@@ -277,6 +283,10 @@ https://download.microsoft.com/download/3/0/3/30383778-FB6F-429A-9F65-AF1FE57D70
 [](https://download.microsoft.com/download/C/2/6/C2639937-F21B-44C7-BE83-D8A16E4FD84D/BCMv4-Beta-BCMSetup-x86-en-US.exe)
 [](https://download.microsoft.com/download/B/B/3/BB3816A3-6479-4556-B7F6-4E49879307D8/BCMv4-Beta-BCMSetup-x64-en-US.exe)
 [](https://download.microsoft.com/download/D/D/B/DDB6DAF8-25BE-48D1-8A51-6EFC193CEF29/webapps/14.0.4536.1000_WcServer_none_ship_x64_en-us_exe/WcServer_en-us.exe)
+
+Office 2007
+
+http://download.microsoft.com/download/0/4/B/04BC3569-93D6-449C-B817-A91BFBA2D9F3/SharePointDesigner.exe [(x86)](https://download.cnet.com/Microsoft-SharePoint-Designer-2007/3001-2064_4-75451282.html)[](https://www.microsoft.com/en-ca/download/details.aspx?id=21581)
 
 Office 2003
 
