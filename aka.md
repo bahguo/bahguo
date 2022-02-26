@@ -253,6 +253,7 @@ https://download.microsoft.com/download/0/B/D/0BD8B67A-FA3A-402A-AEC4-B18616340D
 [](https://download.microsoft.com/download/E/7/F/E7F39294-9523-4C48-92E9-48F7CA04CFAB/WebAppsServer_en-us_x64.img)
 [](https://download.microsoft.com/download/B/E/9/BE9E63FA-40EA-44C1-9389-C0C58F47A279/SharePointServer_en-us.img)
 [](https://download.microsoft.com/download/F/5/3/F53FED95-9B8A-4E19-A294-CA5996755421/LS-E-enUS-8132.0.iso)
+https://download.microsoft.com/download/F/E/3/FE380515-C80B-4B2E-A3C6-61A4E1781374/lyncentry.exe [(x64)](https://download.microsoft.com/download/4/5/3/45367500-0EEB-458F-9BD5-F43778C9F841/lyncentry.exe)
 
 https://download.microsoft.com/download/3/E/3/3E383BC4-C6EC-4DEA-A86A-C0E99F0F3BD9/sharepointdesigner_32bit.exe [(x64)](https://download.microsoft.com/download/3/E/3/3E383BC4-C6EC-4DEA-A86A-C0E99F0F3BD9/sharepointdesigner_64bit.exe)
 
@@ -268,7 +269,9 @@ https://care.dlservice.microsoft.com/dl/download/evalx/project2010/x86/EN/Projec
 
 https://care.dlservice.microsoft.com/dl/download/evalx/visio2010/x86/EN/VisioSingleImage.exe
 
-http://c2r.microsoft.com/oconline/en-us/7577.280/x86/en-US/LyncSetup.exe [(x64)](https://download.cnet.com/Microsoft-Lync-2010-64-Bit/3001-20432_4-75450308.html)
+https://download.microsoft.com/download/E/2/D/E2DB64DE-2575-40EE-BA85-BD6455812B24/LyncSetupEval.exe [(x64)](https://download.cnet.com/Microsoft-Lync-2010-64-Bit/3001-20432_4-75450308.html)
+[](http://download.microsoft.com/download/9/7/D/97D6C316-F17A-444E-B2BE-E64500BB57C6/LyncSetupEval.exe)
+[](http://c2r.microsoft.com/oconline/en-us/7577.280/x86/en-US/LyncSetup.exe)
 
 https://download.microsoft.com/download/7/9/B/79B9134E-D725-41AC-A04A-053BA7F0D678/SharePointDesigner.exe [(x64)](https://download.microsoft.com/download/5/B/6/5B645118-85F5-41D6-8DB9-2B7BAB835A79/SharePointDesigner.exe)
 
